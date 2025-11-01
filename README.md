@@ -21,10 +21,18 @@ RTOS 및 Embedded Linux에 대한 지식을 확장하여
 
 ## 💾 포트폴리오 (Portfolio)
 
+* [밸런싱 로봇](https://github.com/hyunsoo-Oh/balancing-robot)
 * [AGV(Automated Guided Vehicle) 로봇](https://github.com/hyunsoo-Oh/AGV_MartKeeper)
 * [볼 밸런싱 로봇 프로젝트](https://github.com/hyunsoo-Oh/Ball_Balancing_Robot)
 * [자율주행 RC카 프로젝트](https://github.com/hyunsoo-Oh/Intel_Edge_AI_SW_Embedded/tree/main/04_RC_Car_Project)
 * [선박 컨테이너 관리 시스템 프로젝트](https://github.com/hyunsoo-Oh/Intel_Edge_AI_SW_Embedded/tree/main/03_Container_manager)
 * [선풍기 프로젝트](https://github.com/hyunsoo-Oh/Intel_Edge_AI_SW_Embedded/tree/main/01_Electric_fan)
 
--> 진행중인 프로젝트 [밸런싱 로봇](https://github.com/hyunsoo-Oh/balancing-robot)
+## 학습 Study
+### C
+* [w5500 Ethernet](https://github.com/hyunsoo-Oh/w5500-ethernet)
+
+### C++
+
+### C#
+* [.NET Framework](https://github.com/hyunsoo-Oh/Dot-NET-Study)
