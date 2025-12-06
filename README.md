@@ -24,12 +24,12 @@ GUI : C# .NET Framework, Python PyQt 개발 경험 보유 (Serial 통신 및 TCP
 #### 2026년도 프로젝트
 
 #### 2025년도 프로젝트
-* [밸런싱 로봇](https://github.com/hyunsoo-Oh/balancing-robot)
-* [AGV(Automated Guided Vehicle) 로봇](https://github.com/hyunsoo-Oh/AGV_MartKeeper)
-* [볼 밸런싱 로봇 프로젝트](https://github.com/hyunsoo-Oh/Ball_Balancing_Robot)
-* [자율주행 RC카 프로젝트](https://github.com/hyunsoo-Oh/Intel_Edge_AI_SW_Embedded/tree/main/04_RC_Car_Project)
-* [선박 컨테이너 관리 시스템 프로젝트](https://github.com/hyunsoo-Oh/Intel_Edge_AI_SW_Embedded/tree/main/03_Container_manager)
-* [선풍기 프로젝트](https://github.com/hyunsoo-Oh/Intel_Edge_AI_SW_Embedded/tree/main/01_Electric_fan)
+* [개인][밸런싱 로봇](https://github.com/hyunsoo-Oh/balancing-robot)
+* [팀][AGV(Automated Guided Vehicle) 로봇](https://github.com/hyunsoo-Oh/AGV_MartKeeper)
+* [팀][볼 밸런싱 로봇 프로젝트](https://github.com/hyunsoo-Oh/Ball_Balancing_Robot)
+* [개인][자율주행 RC카 프로젝트](https://github.com/hyunsoo-Oh/Intel_Edge_AI_SW_Embedded/tree/main/04_RC_Car_Project)
+* [팀][선박 컨테이너 관리 시스템 프로젝트](https://github.com/hyunsoo-Oh/Intel_Edge_AI_SW_Embedded/tree/main/03_Container_manager)
+* [개인][선풍기 프로젝트](https://github.com/hyunsoo-Oh/Intel_Edge_AI_SW_Embedded/tree/main/01_Electric_fan)
 
 ## 학습 Study
 ### Firmware 개발
